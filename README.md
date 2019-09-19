@@ -2,6 +2,18 @@
 
 ## The repository contains automation framework for GL QA Automation ProCamp.
 
+Requirement:
+- Java 8
+- Maven 3.6.0
+
+*Library uses:*
+
+    - Junit5
+    - Hamcrest
+    - Allure2
+    - Javafaker
+    - Webdrivermanager
+
 ### Setup 
 1. Install LiteCart application
 2. Clone projects 
